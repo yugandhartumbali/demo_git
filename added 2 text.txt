@@ -1,1 +1,2 @@
-hello added a new file.
+hello added a new file. 
+testing conflicts
