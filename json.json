@@ -1,0 +1,25 @@
+{
+    "Browser": {
+        "Name": "chromium"
+    },
+    "Database": {
+        "CommandTimeout": 30
+    },
+    "Logging": {
+        "LogLevel": "Debug",
+        "RetainedFileCount": 7
+    }
+
+}{
+    "Browser": {
+        "Name": "chromium"
+    },
+    "Database": {
+        "CommandTimeout": 30
+    },
+    "Logging": {
+        "LogLevel": "Debug",
+        "RetainedFileCount": 7
+    }
+
+}
